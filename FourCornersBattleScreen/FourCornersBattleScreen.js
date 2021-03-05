@@ -192,7 +192,6 @@
     /*
     * Move party and actor command windows to center
     */
-
     Scene_Battle.prototype.partyCommandWindowRect = function() {
         const ww = 192;
         const wh = this.windowAreaHeight();
