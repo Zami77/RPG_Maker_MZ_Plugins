@@ -1,6 +1,6 @@
 # Four Corners Battle Screen
 This plugin creates a battle look similar to the game Omori. The actor portraits are drawn in each corner of the screen.
-Recomment first person battles as space can get tight. [Click here for the plugin](https://github.com/Zami77/RPG_Maker_MZ_Plugins/blob/main/FourCornersBattleScreen/FourCornersBattleScreen.js)
+I recommend first person battles, as space can get tight. [Click here for the plugin](https://github.com/Zami77/RPG_Maker_MZ_Plugins/blob/main/FourCornersBattleScreen/FourCornersBattleScreen.js)
 
 ## Features
 * Dictate which actor is drawn in which location
