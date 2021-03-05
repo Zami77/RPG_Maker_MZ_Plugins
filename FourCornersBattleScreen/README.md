@@ -29,6 +29,6 @@ NOTE: The default project for RPMZ does NOT have actors 1-4, so you will have to
 There are none for this plugin.
 
 ## Download
-Download off of this [github repo]()
+Download off of this [github repo](https://github.com/Zami77/RPG_Maker_MZ_Plugins/blob/main/FourCornersBattleScreen/FourCornersBattleScreen.js)
 
 
