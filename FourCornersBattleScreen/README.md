@@ -9,13 +9,13 @@ I recommend first person battles, as space can get tight. [Click here for the pl
 
 ## Screenshots
 ### Default layout
-<img src="Default 4 person battle.png" width="400" height="300"></img>
+<img src="Default 4 person battle.png" width="50%" height="50%"></img>
 ### Battle Log with four Person Party
-<img src="BattleLog with 4 person party.png" width="400" height="300"></img>
+<img src="BattleLog with 4 person party.png" width="50%" height="50%"></img>
 ### Battle Log with two Person Party
-<img src="BattleLog with 2 person party.png" width="400" height="300"></img>
+<img src="BattleLog with 2 person party.png" width="50%" height="50%"></img>
 ### Diagonal Layout
-<img src="Diagonal layout.png" width="400" height="300"></img>
+<img src="Diagonal layout.png" width="50%" height="50%"></img>
 
 
 ## How to use
